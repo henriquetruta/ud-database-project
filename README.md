@@ -29,3 +29,5 @@ If you need to install dependencies, run:
 ```
 pip install -r requirements.txt
 ```
+
+An example output can be found at the file `output.txt`.
